@@ -455,11 +455,11 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 700px;
+  width: 840px;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 .main {
@@ -467,11 +467,11 @@ body {
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 840px;
 }
 @media (min-width: 1600px) {
   .container .main-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 .footer {
@@ -484,11 +484,11 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 20px auto;
-  width: 700px;
+  width: 840px;
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 pre,
@@ -1549,7 +1549,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e346cc;
+  background: #37ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2146,7 +2146,8 @@ body {
 .header {
   position: relative;
   margin: 0 auto;
-  width: 960px;
+/*width: 960px;*/
+  width: 1100px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .header {
@@ -2202,7 +2203,7 @@ body {
   }
 }
 .container .main-inner {
-  width: 960px;
+  width: 1100px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .container .main-inner {
@@ -2218,7 +2219,7 @@ body {
   float: right;
   box-sizing: border-box;
   padding: 40px;
-  width: 700px;
+  width: 840px;
   background: #fff;
   min-height: 700px;
 }
@@ -2257,7 +2258,7 @@ body {
   display: none;
 }
 .footer-inner {
-  width: 960px;
+  width: 1100px;
 }
 .footer-inner:before {
   content: " ";
